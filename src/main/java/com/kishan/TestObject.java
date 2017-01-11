@@ -6,6 +6,10 @@ public class TestObject {
 	
 	private long counter;
 	
+	public TestObject() {
+		
+	}
+	
 	public TestObject(String greetings, long counter) {
 		this.greetings=greetings;
 		this.counter=counter;

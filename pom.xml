@@ -104,10 +104,10 @@
 		<!-- Spring cloud config server END -->
 		
 		<!-- Spring cloud - Eureka (Service Registry and Discovery) - Client dependencies START -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka-server</artifactId>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka</artifactId>
